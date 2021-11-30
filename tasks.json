@@ -1,0 +1,14 @@
+// tasks { id: int , task :  string }
+{ 
+    "tasks" : 
+    [
+        {
+            "id" : "0.1",
+            "task" : "Do milab hw"
+        },
+        {
+            "id" : "0.2",
+            "task" : "Do it better" 
+        }
+    ]
+}
