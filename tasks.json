@@ -1,14 +1,24 @@
-// tasks { id: int , task :  string }
-{ 
-    "tasks" : 
-    [
-        {
-            "id" : "0.1",
-            "task" : "Do milab hw"
-        },
-        {
-            "id" : "0.2",
-            "task" : "Do it better" 
-        }
-    ]
+{
+    "allTasks": [{
+        "id": "0.1",
+        "task": "Do milab hw"
+    }, {
+        "id": "0.2",
+        "task": "Do it better"
+    }, {
+        "id": "3",
+        "task": "do somthing"
+    }, {
+        "id": "3",
+        "task": "do somthing"
+    }, {
+        "id": "3",
+        "task": "do somthing"
+    }, {
+        "id": "3",
+        "task": "do somthing"
+    }, {
+        "id": "4",
+        "task": "do somthing"
+    }]
 }
