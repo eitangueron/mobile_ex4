@@ -1,14 +1,1 @@
-// tasks { id: int , task :  string }
-{ 
-    "tasks" : 
-    [
-        {
-            "id" : "0.1",
-            "task" : "Do milab hw"
-        },
-        {
-            "id" : "0.2",
-            "task" : "Do it better" 
-        }
-    ]
-}
+{"allTasks":[{"id":"1","task":"do something"},{"id":"2","task":"test"},{"id":"3","task":"push"}]}
